@@ -14,7 +14,8 @@
 ### ⚒️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix Framework" alt="Elixir" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" title="Phoenix Framework" alt="Phoenix Framework" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailWind CSS" alt="TailWind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
