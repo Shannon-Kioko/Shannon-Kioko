@@ -7,7 +7,7 @@
 ### 👩🏽‍💻 About Me:
 
 - 🧙🏽‍♀️ I’m working as an Elixir Software Developer
-- 🌱 I’m currently learning Elixir
+- 🌱 I’m currently fawning over Elixir and Bitcoin
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Shannon_Kioko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shannon-kioko/)
 - 👩🏽‍💻 [![wakatime](https://wakatime.com/badge/user/018c03d1-f292-4972-a9e1-52aae0c31131.svg)](https://wakatime.com/@018c03d1-f292-4972-a9e1-52aae0c31131)
 ---
